@@ -3,10 +3,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)
 
 
-## 🚀 Features
-- Learning how to use GitHub
-- Understanding repositories, commits, and branches
-- Practicing version control basics
 
 ## 📂 Repository Structure
 ```
