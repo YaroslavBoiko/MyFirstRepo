@@ -2,8 +2,6 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)
 
-## 📌 About
-This is my first GitHub repository! It serves as a practice project to explore GitHub features like commits, branches, pull requests, and more.
 
 ## 🚀 Features
 - Learning how to use GitHub
