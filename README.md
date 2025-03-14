@@ -4,14 +4,6 @@
 
 
 
-## 📂 Repository Structure
-```
-MyFirstRepo/
-│-- README.md          # Project documentation
-│-- src/               # Sample code files
-│-- .gitignore         # Ignored files
-```
-
 ## 🛠 How to Use
 1. **Clone this repository:**
    ```sh
