@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)
 
 ## 🎯 About This Repository
-This repository was created as part of an **NPower** presentation for an audience of 50 people. It serves as a practical demonstration of GitHub fundamentals, including cloning, branching, committing, and pushing changes.
+This repository was created as part of an **NPower Canada** presentation, which I conducted for an audience of 50 people. It serves as a practical demonstration of GitHub fundamentals, including cloning, branching, committing, and pushing changes.
 
 ## 🛠 How to Use
 
@@ -21,7 +21,7 @@ This repository was created as part of an **NPower** presentation for an audienc
    - Explore pull requests and issue tracking.
 
 ## 🤝 Contributions
-This is a personal learning project, but feel free to explore, fork, and suggest improvements!
+This is a demonstrative project, but feel free to explore, fork, and suggest improvements!
 
 ## 📬 Contact
 - **GitHub:** [YaroslavBoiko](https://github.com/YaroslavBoiko)
